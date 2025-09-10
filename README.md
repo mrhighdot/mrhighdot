@@ -13,27 +13,27 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative&perline=6" height="32" />
 </p>
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel&perline=4" height="32" />
 </p>
 
 ### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3" height="32" />
 </p>
 
 ### 🚀 Deployment & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,postman,cloudflare,aws,digitalocean" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,postman,cloudflare,aws,digitalocean&perline=6" height="32" />
 </p>
 
 ### 🎨 Design & Creative  
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae" />
+  <img src="https://skillicons.dev/icons?i=figma,ai,ps,pr,ae&perline=5" height="32" />
 </p>
 
 ---
@@ -47,7 +47,8 @@
 
 ## 📬 Connect With Me  
 <p>
-  <a href="https://twitter.com/mrhighdot"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="https://www.instagram.com/mrhighdot"><img src="https://skillicons.dev/icons?i=instagram" /></a>
-  <a href="https://www.behance.net/gabrielomane-"><img src="https://skillicons.dev/icons?i=behance" /></a>
+  <a href="https://x.com/mrhighdot"><img src="https://skillicons.dev/icons?i=twitter" height="32" /></a>
+  <a href="https://www.instagram.com/mrhighdot"><img src="https://skillicons.dev/icons?i=instagram" height="32" /></a>
+  <a href="https://www.tiktok.com/@mrhighdot"><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/main/public/icons/tiktok/tiktok.svg" height="32" /></a>
+  <a href="https://www.behance.net/gabrielomane-"><img src="https://skillicons.dev/icons?i=behance" height="32" /></a>
 </p>
