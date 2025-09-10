@@ -13,17 +13,17 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative&perline=6" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative&perline=8" height="32" />
 </p>
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel&perline=4" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel&perline=8" height="32" />
 </p>
 
 ### 🗄️ Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=3" height="32" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite&perline=15" height="32" />
 </p>
 
 ### 🚀 Deployment & Tools  
