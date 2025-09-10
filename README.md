@@ -13,12 +13,12 @@
 
 ### 🌐 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative&perline=8" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,vite,reactnative&perline=12" height="32" />
 </p>
 
 ### ⚙️ Backend  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel&perline=8" height="32" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,deno,laravel&perline=12" height="32" />
 </p>
 
 ### 🗄️ Databases  
@@ -28,7 +28,7 @@
 
 ### 🚀 Deployment & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,postman,cloudflare,aws,digitalocean&perline=6" height="32" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vercel,netlify,postman,cloudflare,aws,digitalocean&perline=13" height="32" />
 </p>
 
 ### 🎨 Design & Creative  
